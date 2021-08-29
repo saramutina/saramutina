@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi, welcome to my GitHub 🦄
+
+#### 📫 How to reach me: saramutina@gmail.com
+##### 💁‍♀️ Pronouns: she/her
 
 <!--
 **saramutina/saramutina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
