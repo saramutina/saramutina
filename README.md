@@ -1,8 +1,10 @@
 ## Hi, my name is Katie! Welcome to my GitHub 🦄
 
-- 💡 I am currently switching careers from frontend to iOS development
-- 📫 How to reach me: saramutina@gmail.com
-- 💁‍♀️ Pronouns: she/her
+- 🌱 I’m currently learning Swift and want to change career from front-end development to iOS development
+- 👋 I am open to work opportunities
+- 💁‍♀️ My pronouns: she/her
+- 📫 How to reach me: ✉ Email: saramutina@gmail.com ✉ Telegram: @saramutina 
+- 🕊
 
 <!--
 **saramutina/saramutina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
