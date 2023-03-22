@@ -1,8 +1,8 @@
 ## Hi, my name is Katie! Welcome to my GitHub 🦄
 
-- 🌱 I’m currently learning Swift and want to change career from front-end development to iOS development
-- 👋 I am open to work opportunities
-- 💁‍♀️ My pronouns: she/her
+- 👩🏻‍💻 I’m an iOS developer. I'm currently working on my portfolio and doing some pet-projects (some of which are privated - feel free to ask for access).
+- 👋 Open to work opportunities.
+- 💁‍♀️ Pronouns: she/her
 - 📫 How to reach me: ✉ Email: saramutina@gmail.com ✉ Telegram: @saramutina 
 - 🕊
 
