@@ -1,8 +1,11 @@
 ## Hi, my name is Katie! Welcome to my GitHub 🦄
 
-- 👩🏻‍💻 I’m an iOS developer. I'm currently working on my portfolio and doing some pet-projects (some of which are privated - feel free to ask for access).
+- 👩🏻‍💻 I’m an iOS developer.
+- 🌱 I’m currently learning SwiftData.
+- 🔭 I’m currently working on my next iOS app that would allow to keep track of all your favorite media.
 - 👋 Open to work opportunities.
-- 📫 How to reach me: ✉ Email: saramutina@gmail.com ✉ Telegram: @saramutina 
+- 📫 How to reach me: ✉ Email: saramutina@gmail.com ✉ Telegram: @saramutina
+- 💁🏻‍♀️ Pronouns: she/her/hers
 - 🕊
 
 <!--
